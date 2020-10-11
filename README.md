@@ -5,6 +5,7 @@ UI Clone - Tesla
 <p align="center"><a href="#">Tesla Homepage</a> UI clone for study purposes.</p>
 
 <hr>
+
 ## Techs
 
 - [x] React
