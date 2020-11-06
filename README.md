@@ -3,7 +3,6 @@ UI Clone - Tesla
 </h1>
 
 <p align="center"><a href="https://tesla-homepage.vercel.app/">Tesla Homepage</a> UI clone for study purposes.</p>
-
 <hr>
 
 ## Techs
