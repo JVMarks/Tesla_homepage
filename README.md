@@ -4,7 +4,6 @@ UI Clone - Tesla
 
 <p align="center"><a href="https://tesla-homepage.vercel.app/">Tesla Homepage</a> UI clone for study purposes.</p>
 <hr>
-
 ## Techs
 - [x] React
 - [x] Styled Components
